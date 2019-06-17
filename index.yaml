@@ -3,10 +3,10 @@ entries:
   gate:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-06-17T06:16:23.9859109Z"
+    created: "2019-06-17T06:23:42.9730672Z"
     description: Single Sign On platform for centralised authentication across Linux,
       OpenVPN and CAS.
-    digest: 07b138d9edef506b490add2c9e7fb1bc6da8733a7a8cd7294eb2827adc5a8280
+    digest: 32af5f2f29b1cfa77a6d3996f4a29162ac587e34c07ae127f2ee6fcf2a169dd0
     home: https://github.com/gate-sso/gate
     name: gate
     sources:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://walbertus.github.io/helm-packages/gate-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-17T06:16:23.985397Z"
+generated: "2019-06-17T06:23:42.9726874Z"
